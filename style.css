@@ -42,6 +42,7 @@ a {
     display: block;
     position: relative;
     overflow: hidden;
+    margin-top: -10px;
 }
 
 .section.lb {
@@ -71,7 +72,7 @@ a {
 .head-tital h3 {
     font-size: 40px;
     font-weight: 400;
-    margin: 20px 0px 0px 0px;
+    margin: 20px 0px 10px 0px;
     text-transform: none;
     animation:  type 3s steps(15);
     overflow: hidden;
@@ -90,7 +91,6 @@ a {
 .head-tital {
     display: block;
     position: relative;
-    margin-bottom: 0px;
 }
 
 .our-inner-taem{
